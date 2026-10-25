@@ -3,6 +3,9 @@
 > **“每一个国家都有其过往，每一座帝国都留下遗产。见证历史画卷徐徐展开。”**  
 > *"Every country has a past. Every empire leaves a legacy. Watch history unfold."*
 
+- 🌐 **在线访问地址（Live Demo）**：[https://pengze369-stack.github.io/history-unfolded/](https://pengze369-stack.github.io/history-unfolded/)
+- 📦 **GitHub 仓库**：[https://github.com/pengze369-stack/history-unfolded](https://github.com/pengze369-stack/history-unfolded)
+
 专为 YouTube 历史纪录片频道 **[History Unfolded (@HistoryinFocus-p3b)](https://www.youtube.com/@HistoryinFocus-p3b)** 量身打造的高品质个人官方网站。采用古典典雅黑金电影级视效（Cinematic Editorial Imperial Gold & Obsidian），深度契合历史人文纪录片风格。
 
 ---
